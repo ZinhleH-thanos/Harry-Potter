@@ -1,4 +1,5 @@
-# 🧙‍♂️ Hogwarts Trials Hackathon
+# 🧙‍♂️ Hogwarts Trials
+
 
 Welcome to the **Hogwarts Trials** — a text-based adventure game challenge where you’ll use your Python skills to guide a magical character through mysterious hidden rooms beneath Hogwarts in search of the legendary **Wand of Merlin**.
 
